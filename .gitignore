@@ -1,3 +1,5 @@
+.idea
+
 # Checkpoints et artefacts d'entraînement
 *.pth
 *.pt
